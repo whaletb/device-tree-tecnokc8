@@ -1,3 +1,5 @@
+
+
 # Android device tree for TECNO TECNO KC8 (TECNO-KC8)
 
 ```
